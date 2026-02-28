@@ -1,4 +1,4 @@
-# Evolución y Transición del Empleo Sectorial en Colombia (1958-2018) 🇨🇴📊
+# Evolución y Transición del Empleo Sectorial en Colombia (1958-2018) 🇨🇴
 
 ## Descripción del Proyecto
 Este proyecto realiza un proceso completo de Extracción, Transformación y Carga (ETL) y un Análisis Exploratorio de Datos (EDA) sobre las series históricas de ocupación laboral en Colombia, utilizando datos oficiales del DANE (Departamento Administrativo Nacional de Estadística). 
