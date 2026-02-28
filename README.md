@@ -23,4 +23,4 @@ El objetivo principal es evidenciar, mediante análisis cuantitativo, la transic
 
 ## Cómo explorar este proyecto
 El código completo y las visualizaciones están documentados paso a paso en el cuaderno principal:
-[Ver el Cuaderno de Análisis (Jupyter Notebook)](https://github.com/Felipe-CG-ING/analisis-empleo-colombia/blob/main/analisis_empleo_colombia.ipynb)
+[Ver el Cuaderno de Análisis (Jupyter Notebook)](https://github.com/Felipe-CG-ING/analisis-empleo-colombia/blob/main/analisis_empleo_colombia_DANE.ipynb)
